@@ -1,0 +1,9 @@
+/db/
+/incremental_db/
+/output_files/
+/c5_pin_model_dump.txt
+/*.qws
+
+#exception for RTL simulation file
+/simulation/modelsim/*
+!/simulation/modelsim/*.vt
